@@ -5,7 +5,7 @@ In the directory /IOI-tasks of this repository you shall find all tasks with sol
 Until this time there exist only from 1989 until 2018. For future downloads I created get_me.py
 
 ## Download desired years
-The get_me.py python script let's you download a specified year range for the tasks
+The `get_me.py` python script let's you download a specified year range for the tasks
 ```
 Usage: ./get_me.py [from_year] [to_year] [path_to_save] 
 ```
